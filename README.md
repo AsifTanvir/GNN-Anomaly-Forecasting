@@ -52,8 +52,10 @@ scikit-learn
 
 ## Author
 
+```
 Md Asif Tanvir
 Department of Computer Science
 Missouri State University
-
+```
+---
 
